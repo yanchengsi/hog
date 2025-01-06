@@ -12,7 +12,7 @@ A strategic dice game implemented in Python.
 2. Run with Python 3.x  
 
 ## How to Play  
-[Add brief game rules]  
+[Add game rules and instructions here]  
 
 ## License  
 MIT License
